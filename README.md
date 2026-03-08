@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myhirola114
+- 👋 Hi, I’m @myhirola.com
 - 👀 I’m interested in ...coding and app creation and development
 - 🌱 I’m currently learning ... IT
 - 💞️ I’m looking to collaborate on ... app creation
